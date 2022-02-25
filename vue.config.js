@@ -1,6 +1,6 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
   transpileDependencies: true,
-  // baseURL: '/jsPDF-Sampling',
+  publicPath: '/jsPDF-Sampling',
   outputDir: 'docs'
 })
