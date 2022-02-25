@@ -1,24 +1,19 @@
-# jspdf2
+# jsPDF 샘플링 테스트
 
-## Project setup
+## 목적 및 용도
 ```
+이 프로젝트는 vue.js기반으로 jsPDF를 이용하여 PDF파일을 생성해내기 위한 샘플링 테스트입니다.
+```
+
+## 설치 및 시작
+```sh
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 외부 리소스 정보
 ```
-npm run build
+* [jsPDF](https://github.com/parallax/jsPDF)
+* [jsPDF-Auto-Table](https://github.com/simonbengtsson/jsPDF-AutoTable)
+* [vue-google-charts](https://github.com/devstark-com/vue-google-charts)
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
